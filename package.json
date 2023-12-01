@@ -1,0 +1,13 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "day-1-part-1": "node ./day-1/part-1/",
+    "day-1-part-2": "node ./day-1/part-2/"
+  },
+  "keywords": [],
+  "author": "Godmoded",
+  "license": "Apache-2.0"
+}
