@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "day-1-part-1": "node ./day-1/part-1/",
-    "day-1-part-2": "node ./day-1/part-2/"
+    "day-1-part-2": "node ./day-1/part-2/",
+    "day-2-part-1": "node ./day-2/part-1/",
+    "day-2-part-2": "node ./day-2/part-2/"
   },
   "keywords": [],
   "author": "Godmoded",
