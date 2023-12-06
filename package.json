@@ -13,7 +13,9 @@
     "day-4-part-1": "node ./day-4/part-1/",
     "day-4-part-2": "node ./day-4/part-2/",
     "day-5-part-1": "node ./day-5/part-1/",
-    "day-5-part-2": "node ./day-5/part-2/"
+    "day-5-part-2": "node ./day-5/part-2/",
+    "day-6-part-1": "node ./day-6/part-1/",
+    "day-6-part-2": "node ./day-6/part-2/"
   },
   "keywords": [],
   "author": "Godmoded",

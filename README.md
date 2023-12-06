@@ -9,3 +9,4 @@ Here are my solutions for the Advent of Code 2023. I will be using node.js for a
 | 3 | [Day 3 Part 1](./day-3/part-1/index.js) | [Day 3 Part 2](./day-3/part-2/index.js) |
 | 4 | [Day 4 Part 1](./day-4/part-1/index.js) | [Day 4 Part 2](./day-4/part-2/index.js) |
 | 5 | [Day 5 Part 1](./day-5/part-1/index.js) | [Day 5 Part 2](./day-5/part-2/index.js) |
+| 6 | [Day 6 Part 1](./day-6/part-1/index.js) | [Day 6 Part 2](./day-6/part-2/index.js) |
